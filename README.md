@@ -29,7 +29,8 @@ customers: Contains customer information (customer ID, name, contact details).
 orders and order_details are joined on order_id.
 items and order_details are joined on item_id.
 customers and orders are joined on customer_id.
-5. Key Questions
+
+## 5. Key Questions
 
 #### Product Analysis
 
